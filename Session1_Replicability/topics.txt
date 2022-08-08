@@ -1,0 +1,2 @@
+- Review reproducibility principles
+- Intro to KLC
