@@ -1,0 +1,2 @@
+git vs. github
+conda environments
