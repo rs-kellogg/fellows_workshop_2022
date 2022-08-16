@@ -9,8 +9,8 @@ set more off
 /// ssc install filelist
 
 * Set working directory
-global dirin = "~/workshop_2022/Session4_Automate/interest_rates/data/raw"
-global dirout = "~/workshop_2022/Session4_Automate/interest_rates/data"
+global dirin = "~/fellows_workshop_2022/Session2_Automation/interest_rates/data/raw"
+global dirout = "~/fellows_workshop_2022/Session2_Automation/interest_rates/data"
 
 * Automate Fixes
 insheet using "$dirin/ir2000.csv", comma clear
