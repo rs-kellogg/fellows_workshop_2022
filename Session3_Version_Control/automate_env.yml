@@ -1,0 +1,10 @@
+# Create automate_env.yml file 
+# begin automate_env.yml
+name: automate_env
+channels:
+- defaults
+dependencies:
+- pandas=1.4.3
+- r-base=3.6.1
+- r-essentials=3.6.0
+# end automate_env.yml
